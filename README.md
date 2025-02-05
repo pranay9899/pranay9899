@@ -15,7 +15,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay9899&" alt="pranay9899" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranay9899&show_icons=true&locale=en&layout=compact" alt="pranay9899" /></p>
 
-* Feel free to shoot me an email at npranay9899@gmail.com 
-* Connect with me on LinkedIn: https://www.linkedin.com/in/pranaynyalapatla/
-
-* I'm always open to discussions, feedback, and collaboration! Feel free to reach out or open a pull request on any of my repositories.
+Feel free to shoot me an email at npranay9899@gmail.com 
+Connect with me on LinkedIn: https://www.linkedin.com/in/pranaynyalapatla/
+I'm always open to discussions, feedback, and collaboration! Feel free to reach out or open a pull request on any of my repositories.
