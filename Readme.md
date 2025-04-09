@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A77B6&center=true&vCenter=true&width=435&lines=Building+backend+magic+with+Spring+Boot;Creating+clean+UIs+with+React;Open+to+collaboration+and+learning" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranay9899&label=Profile+Views&color=0a77b6&style=flat" alt="pranay9899" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -21,13 +25,13 @@
 ### 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
@@ -38,19 +42,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pranay9899&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
+---
+
 ### 🚀 Featured Projects
 
 - 🎵 **TuneHub**  
-  Full-stack music streaming app using Java Spring Boot and React. Features include media player, playlists, and user authentication.
+  Full-stack music streaming app using Java Spring Boot and React. Features include media player, playlists, and user authentication.  
+  🔗 [GitHub Repo](https://github.com/pranay9899/TuneHub)
 
 - 📚 **LearnSphere**  
-  A Spring Boot-based online learning platform featuring live sessions, structured courses, polls, and secure role-based access for instructors and students.
+  A Spring Boot-based online learning platform featuring live sessions, structured courses, polls, and secure role-based access.  
+  🔗 [GitHub Repo](https://github.com/pranay9899/LearnSphere)
 
 - 🛍️ **ShopNest**  
-  E-commerce web application built with Spring Boot and MySQL. Includes product catalog, cart management, secure checkout, and admin dashboard.
+  E-commerce app built with Spring Boot and MySQL. Includes product catalog, cart management, secure checkout, and admin dashboard.  
+  🔗 [GitHub Repo](https://github.com/pranay9899/ShopNest)
 
 > *Want to explore more? Check out my pinned repositories on [GitHub](https://github.com/pranay9899?tab=repositories)!*
 
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranay9899&show_icons=true&layout=compact" alt="Top Languages"/>
@@ -76,4 +86,3 @@
 > I love building real-world apps that solve actual problems — from intuitive user interfaces to secure backend APIs. I'm always up for learning something new and collaborating on exciting projects!
 
 ---
-
