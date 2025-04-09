@@ -38,9 +38,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pranay9899&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranay9899&theme=default" alt="GitHub Streak"/>
-</p>
+### 🚀 Featured Projects
+
+- 🎵 **TuneHub**  
+  Full-stack music streaming app using Java Spring Boot and React. Features include media player, playlists, and user authentication.
+
+- 📚 **LearnSphere**  
+  A Spring Boot-based online learning platform featuring live sessions, structured courses, polls, and secure role-based access for instructors and students.
+
+- 🛍️ **ShopNest**  
+  E-commerce web application built with Spring Boot and MySQL. Includes product catalog, cart management, secure checkout, and admin dashboard.
+
+> *Want to explore more? Check out my pinned repositories on [GitHub](https://github.com/pranay9899?tab=repositories)!*
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranay9899&show_icons=true&layout=compact" alt="Top Languages"/>
