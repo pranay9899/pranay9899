@@ -42,12 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranay9899&theme=default" alt="GitHub Streak"/>
 </p>
 
-<!-- If the streak image above does not load, you can show this static fallback image or message below -->
-<p align="center">
-  <img src="https://via.placeholder.com/420x120.png?text=GitHub+Streak+Unavailable" alt="GitHub Streak Unavailable" />
-</p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranay9899&show_icons=true&layout=compact" alt="Top Languages"/>
 </p>
