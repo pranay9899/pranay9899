@@ -2,7 +2,10 @@
 <h3 align="center">Aspiring Software Developer | Java & Spring Boot Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A77B6&center=true&vCenter=true&width=435&lines=Building+backend+magic+with+Spring+Boot;Creating+clean+UIs+with+React;Open+to+collaboration+and+learning" alt="Typing SVG" />
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A77B6&center=true&vCenter=true&width=600&lines=Building+backend+magic+with+Spring+Boot;Creating+clean+UIs+with+React;Open+to+collaboration+and+learning"
+        alt="Typing SVG"
+      />
 </p>
 
 <p align="center">
